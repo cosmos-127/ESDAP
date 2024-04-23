@@ -1,6 +1,6 @@
 [submodule "esdap-frontend"]
 	path = esdap-frontend
-	url = https://github.com/cosmos-127/ESDAP.git
+	url = https://github.com/GhostVaibhav/esdap-frontend
 [submodule "esdap-backend"]
 	path = esdap-backend
-	url = https://github.com/cosmos-127/ESDAP.git
+	url = https://github.com/GhostVaibhav/esdap-backend
